@@ -19,4 +19,4 @@
 
 ### 🇺🇸 I have always been in love with technology and the "miracles" it can do, and since then I have wanted to learn the thousands of processes that occur behind our eyes and be able to create things by myself, even though it makes me suffer and gives me a headache, I still love making circuits and programs, because I can put my creativity and logical thinking into practice.
 
-#### 🇧🇷 Desde sempre fui apaixonado pela a tecnologia e dos "milagres" que ela pode fazer e desde então quis aprender os milhares de processos que ocorrem por trás dos nossos olhos e poder criar coisas sozinho, mesmo me fazendo sofrer e me dando dor de cabeça, ainda amo fazer circuitos e programas, pois posso colocar minha criatividade e raciocínio lógico em prática.
+### 🇧🇷 Desde sempre fui apaixonado pela a tecnologia e dos "milagres" que ela pode fazer e desde então quis aprender os milhares de processos que ocorrem por trás dos nossos olhos e poder criar coisas sozinho, mesmo me fazendo sofrer e me dando dor de cabeça, ainda amo fazer circuitos e programas, pois posso colocar minha criatividade e raciocínio lógico em prática.
