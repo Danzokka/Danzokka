@@ -10,8 +10,6 @@
 
 ![Danzokka GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danzokka&theme=dracula)
 
-![Danzokka Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danzokka&theme=dracula)
-
 ### 🇺🇸 My Skills
 ### 🇧🇷 Minhas Competências
 
