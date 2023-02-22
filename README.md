@@ -1,6 +1,6 @@
 
-## 🇺🇸 Hi! I'm Rafael Dantas 😳
-## 🇧🇷 Olá, eu sou Rafael Dantas 😳
+## 🇺🇸 Hi! I'm Rafael Dantas 
+## 🇧🇷 Olá, eu sou Rafael Dantas 
 
 ### 🇺🇸 I am currently studying Computer Engineering at IESB and plan to work as a Developer.
 
