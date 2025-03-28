@@ -22,4 +22,5 @@ jobs:
           SHOW_EDITORS: "False"
           SHOW_OS: "False"
           SHOW_LANGUAGE: "True"
+          SHOW_TOTAL_CODE_TIME: "False"
           LOCALE: "pt_BR"
