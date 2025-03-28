@@ -1,30 +1,126 @@
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá, seja bem vindo ao meu perfil!</h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Desenvolvedor na <a href="https://edukativa.com.br">Edukativa
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-## 🇺🇸 Hi! I'm Rafael Dantas 
-## 🇧🇷 Olá, eu sou Rafael Dantas 
+[![Linkedin: rafael-dantas-boeira](https://img.shields.io/badge/Rafael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/rafael-dantas-boeira/)
+![GitHub followers](https://img.shields.io/github/followers/Danzokka?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://danzokka.com/)](https://danzokka.com/)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
-### 🇺🇸 I am currently studying Computer Engineering at IESB and plan to work as a Developer.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco mais sobre mim...  
 
-### 🇧🇷 Atualmente estou cursando Engenharia da Computação no IESB e planejo trabalhar como Dev.
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["TypeScript", "Javascript", "Python", "Dart"],
+    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Css", "Tailwind", "Bootstrap"],
+            uiLibraries: ["Material UI", "Shadcn"],
+            testing: ["Jest"],
+        },
+        backEnd: {
+            js: ["Node", "Express", "NestJS"],
+        },
+        mobileApp: {
+            crossPlatform: ["React Native"],
+        },
+        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
+        cloudServices: {
+            aws: ["AWS Fargate", "EC2", "S3", "ECS"],
+        },
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL", "redis"],
+    },
+    architecture: {
+        frontEnd: ["SPA", "SSR"],
+        backEnd: ["microservices", "monolithic", "serverless"],
+        devOps: ["CloudFormation", "Serverless Framework"],
+        databases: ["Relational", "NoSQL", "In-memory"],
+    },
+    funFact: "Eu sou daltônico!",
+};
+```
 
-[![EMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danzokka@gmail.com)
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-dantas-134621243/)
-[![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/264161929679994882/) 
-[![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJw-Rw1ruxSZb8LyULWingA)
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Gosto muito de conhecer novas pessoas</b> então me mande um oi <b>ficarei muito contente em conversar com você</b></em>
 
-### 🇺🇸 My Skills
-### 🇧🇷 Minhas Competências
+---
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C925%20hrs%2016%20mins-blue)
 
-![Java](https://img.shields.io/badge/Java-8B2635?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-0077B5?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-915-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.8%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 256.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 19 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 30 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                766 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+🌆 Daytime                1866 commits        ██████████░░░░░░░░░░░░░░░   40.20 % 
+🌃 Evening                1376 commits        ███████░░░░░░░░░░░░░░░░░░   29.64 % 
+🌙 Night                  634 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   583 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Tuesday                  637 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Wednesday                734 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Thursday                 615 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Friday                   488 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Saturday                 606 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Sunday                   979 commits         █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+TypeScript               36 hrs 15 mins      ████████████████████████░   94.82 % 
+SCSS                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+CSS                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+
+🔥 Editors: 
+WebStorm                 38 hrs 1 min        █████████████████████████   99.43 % 
+VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+
+💻 Operating System: 
+Mac                      38 hrs 14 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+JavaScript               33 repos            ███████████░░░░░░░░░░░░░░   42.31 % 
+TypeScript               10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+```
 
 
 
-### 🇺🇸 I have always been in love with technology and the "miracles" it can do, and since then I have wanted to learn the thousands of processes that occur behind our eyes and be able to create things by myself, even though it makes me suffer and gives me a headache, I still love making circuits and programs, because I can put my creativity and logical thinking into practice.
 
-### 🇧🇷 Desde sempre fui apaixonado pela a tecnologia e dos "milagres" que ela pode fazer e desde então quis aprender os milhares de processos que ocorrem por trás dos nossos olhos e poder criar coisas sozinho, mesmo me fazendo sofrer e me dando dor de cabeça, ainda amo fazer circuitos e programas, pois posso colocar minha criatividade e raciocínio lógico em prática.
+ Last Updated on 27/03/2025 00:32:23 UTC
+<!--END_SECTION:waka-->
