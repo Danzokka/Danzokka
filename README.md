@@ -1,6 +1,6 @@
 <img  src="/assets/banner.png" width="100%">
 
-# Olá, eu sou Rafael Dantas e seja bem vindo ao meu perfil!</h2>
+# Olá eu sou Rafael, seja bem vindo ao meu perfil</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Desenvolvedor na <a href="https://edukativa.com.br">Edukativa
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
