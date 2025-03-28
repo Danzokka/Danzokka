@@ -120,5 +120,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 ### Repositórios em destaque
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Danzokka&repo=Next-Portfolio&show_owner=true)](https://github.com/Danzokka/Next-Portfolio) [![Marcador de Consultas](https://github-readme-stats.vercel.app/api/pin/?username=Danzokka&repo=marcador-de-consultas&show_owner=true)](https://github.com/Danzokka/marcador-de-consultas)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Danzokka&repo=Next-Portfolio&show_owner=true&theme=github_dark_dimmed)](https://github.com/Danzokka/Next-Portfolio) [![Marcador de Consultas](https://github-readme-stats.vercel.app/api/pin/?username=Danzokka&repo=marcador-de-consultas&show_owner=true&theme=github_dark_dimmed)](https://github.com/Danzokka/marcador-de-consultas)
 
