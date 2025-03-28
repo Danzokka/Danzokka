@@ -46,7 +46,7 @@ const anmol = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Gosto muito de conhecer novas pessoas</b> então me mande um oi <b>ficarei muito contente em conversar com você</b></em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Gosto muito de conhecer novas pessoas</b> me mande um oi <b>ficarei muito contente em conversar com você</b></em>
 
 ---
 <!--START_SECTION:waka-->
@@ -119,3 +119,4 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
  Last Updated on 28/03/2025 00:15:08 UTC
 <!--END_SECTION:waka-->
+
