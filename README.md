@@ -114,10 +114,9 @@ JavaScript               1 repo              █░░░░░░░░░░�
  Last Updated on 28/03/2025 18:07:10 UTC
 <!--END_SECTION:waka-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danzokka&layout=donut&theme=github_dark_dimmed)  
-![Dazokka's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Danzokka&theme=github_dark_dimmed&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danzokka&layout=donut&theme=github_dark_dimmed)  ![Dazokka's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Danzokka&theme=github_dark_dimmed&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Danzokka&theme=react)](https://github.com/Danzokka)
+[![Danzokka github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Danzokka&theme=react)](https://github.com/Danzokka)
 
 ### Repositórios em destaque
 
