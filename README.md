@@ -1,4 +1,4 @@
-<img  src="/assets/banner.png" width="100%">
+<img  src="/assets/banner.png" width="100%" background="transparent" alt="Banner do Github">
 
 # Olá eu sou Rafael, seja bem vindo ao meu perfil</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
