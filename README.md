@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá, seja bem vindo ao meu perfil!</h2>
+# <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-atom-icon lucide-atom"><circle cx="12" cy="12" r="1"/><path d="M20.2 20.2c2.04-2.03.02-7.36-4.5-11.9-4.54-4.52-9.87-6.54-11.9-4.5-2.04 2.03-.02 7.36 4.5 11.9 4.54 4.52 9.87 6.54 11.9 4.5Z"/><path d="M15.7 15.7c4.52-4.54 6.54-9.87 4.5-11.9-2.03-2.04-7.36-.02-11.9 4.5-4.52 4.54-6.54 9.87-4.5 11.9 2.03 2.04 7.36.02 11.9-4.5Z"/></svg> Olá, seja bem vindo ao meu perfil!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Desenvolvedor na <a href="https://edukativa.com.br">Edukativa
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -8,7 +8,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Danzokka?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://danzokka.com/)](https://danzokka.com/)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco mais sobre mim...
+### Sobre mim
 
 #### Linguagens que eu utilizo:
 
@@ -39,7 +39,8 @@
 
 [![Sistemas Operacionais](https://skillicons.dev/icons?i=linux,windows,ubuntu,mint)](https://skillicons.dev)
 
-### Automação e IoT:
+#### Automação e IoT:
+
 [![Automação e IoT](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
 
 
@@ -111,3 +112,13 @@ JavaScript               1 repo              █░░░░░░░░░░�
 Last Updated on 28/03/2025 00:32:42 UTC
 
 <!--END_SECTION:waka-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danzokka&layout=donut&theme=github_dark_dimmed)  
+![Dazokka's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Danzokka&theme=github_dark_dimmed&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Danzokka&theme=react)](https://github.com/Danzokka)
+
+### Repositórios em destaque
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Danzokka&repo=Next-Portfolio&show_owner=true)](https://github.com/Danzokka/Next-Portfolio) [![Marcador de Consultas](https://github-readme-stats.vercel.app/api/pin/?username=Danzokka&repo=marcador-de-consultas&show_owner=true)](https://github.com/Danzokka/marcador-de-consultas)
+
