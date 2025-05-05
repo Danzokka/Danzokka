@@ -14,36 +14,36 @@
 
 #### Linguagens que eu utilizo:
 
-[![Linguagens](https://skillicons.dev/icons?i=js,ts,html,css,java,python,c)](https://skillicons.dev)
+[![Linguagens](https://go-skill-icons.vercel.app/api/icons?i=js,ts,golang,python,c,cpp)](https://danzokka.com)
 
 #### Ferramentas:
 
-[![Ferramentas](https://skillicons.dev/icons?i=git,github,figma,vscode,postman,npm,)](https://skillicons.dev)
+[![Ferramentas](https://go-skill-icons.vercel.app/api/icons?i=git,github,figma,vscode,postman,npm,androidstudio)](https://danzokka.com)
 
 #### Frontend:
 
-[![Frontend](https://skillicons.dev/icons?i=nodejs,next,react,tailwind,redux)](https://skillicons.dev)
+[![Frontend](https://go-skill-icons.vercel.app/api/icons?i=react,tauri,reactquery,next,expo,tailwind,shadcn)](https://danzokka.com)
 
 
 #### Backend:
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,nest,prisma,jest)](https://skillicons.dev)
+[![Backend](https://go-skill-icons.vercel.app/api/icons?i=express,nest,prisma,drizzle,mongoose,jwt,swagger)](https://danzokka.com)
 
 #### Banco de dados que utilizo:
 
-[![Banco de dados](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgresql,supabase,redis)](https://skillicons.dev)	
+[![Banco de dados](https://go-skill-icons.vercel.app/api/icons?i=mysql,mariadb,postgresql,mongodb,supabase,redis)](https://danzokka.com)	
 
 #### DevOps e Cloud:
 
-[![DevOps](https://skillicons.dev/icons?i=docker,aws,ubuntu,bash,githubactions,vercel,nginx,linux)](https://skillicons.dev)
+[![DevOps](https://go-skill-icons.vercel.app/api/icons?i=linux,docker,kubernetes,ubuntu,fedora,bash,nginx,apache,aws,digitalocean,terraform,githubactions,vercel)](https://danzokka.com)
 
 #### Sistemas Operacionais:
 
-[![Sistemas Operacionais](https://skillicons.dev/icons?i=linux,windows,ubuntu,mint)](https://skillicons.dev)
+[![Sistemas Operacionais](https://go-skill-icons.vercel.app/api/icons?i=linux,windows,wsl,ubuntu,fedora)](https://danzokka.com)
 
 #### Automação e IoT:
 
-[![Automação e IoT](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
+[![Automação e IoT](https://go-skill-icons.vercel.app/api/icons?i=arduino,raspberrypi,platformio)](https://danzokka.com)
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em> Me mande um oi</em>
