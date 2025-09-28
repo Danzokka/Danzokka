@@ -67,39 +67,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3386 commits        ██████████░░░░░░░░░░░░░░░   39.87 % 
-🌆 Daytime                4425 commits        █████████████░░░░░░░░░░░░   52.11 % 
-🌃 Evening                646 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-🌙 Night                  35 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1883 commits        ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
-Tuesday                  1811 commits        █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
-Wednesday                1548 commits        █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-Thursday                 1167 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Friday                   1514 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-Saturday                 237 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Sunday                   332 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -113,7 +80,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2025 01:18:23 UTC
+ Last Updated on 28/09/2025 01:28:49 UTC
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danzokka&layout=donut&theme=github_dark_dimmed)  ![Dazokka's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Danzokka&theme=github_dark_dimmed&hide_border=true)
