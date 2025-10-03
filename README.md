@@ -59,7 +59,7 @@
 
 > 📦 42.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,518 Contributions in the Year 2025
+> 🏆 1,521 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,39 +67,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3386 commits        ██████████░░░░░░░░░░░░░░░   39.85 % 
-🌆 Daytime                4429 commits        █████████████░░░░░░░░░░░░   52.13 % 
-🌃 Evening                646 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-🌙 Night                  35 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1885 commits        ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
-Tuesday                  1811 commits        █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-Wednesday                1550 commits        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-Thursday                 1167 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Friday                   1514 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-Saturday                 237 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Sunday                   332 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -113,7 +80,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2025 01:20:01 UTC
+ Last Updated on 03/10/2025 01:19:01 UTC
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danzokka&layout=donut&theme=github_dark_dimmed)  ![Dazokka's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Danzokka&theme=github_dark_dimmed&hide_border=true)
