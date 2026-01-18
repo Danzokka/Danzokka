@@ -1,8 +1,8 @@
 <img  src="/assets/banner.png" width="100%" background="transparent" alt="Banner do Github">
 
-# Olá eu sou Rafael, seja bem vindo ao meu perfil</h2>
+# Hi, I'm Rafael</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Desenvolvedor na <a href="https://edukativa.com.br">Edukativa
+<p><em>Computer Engineer | Mid-Level Fullstack Developer @ <a href="https://edukativa.com.br">Edukativa
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -10,117 +10,54 @@
 ![GitHub followers](https://img.shields.io/github/followers/Danzokka?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://danzokka.com/)](https://danzokka.com/)
 
-### Sobre mim
+### About Me
 
-#### Linguagens que eu utilizo:
+I am a Computer Engineer focused on building scalable, high-performance digital ecosystems. Currently serving as Tech Lead at Edukativa, I architect systems within the TypeScript ecosystem, bridging modern Next.js interfaces with robust NestJS backends, always with a sharp focus on infrastructure (AWS/Docker) and observability.
 
-[![Linguagens](https://go-skill-icons.vercel.app/api/icons?i=js,ts,golang,python,c,cpp)](https://danzokka.com)
+### Skills
 
-#### Ferramentas:
+#### Languages:
 
-[![Ferramentas](https://go-skill-icons.vercel.app/api/icons?i=git,github,figma,vscode,postman,npm,androidstudio)](https://danzokka.com)
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts,python)](https://danzokka.com)
+
+#### Tools:
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,figma,vscode,postman)](https://danzokka.com)
 
 #### Frontend:
 
-[![Frontend](https://go-skill-icons.vercel.app/api/icons?i=react,tauri,reactquery,next,expo,tailwind,shadcn)](https://danzokka.com)
+[![Frontend](https://go-skill-icons.vercel.app/api/icons?i=react,reactquery,next,tailwind,shadcn)](https://danzokka.com)
 
 
 #### Backend:
 
-[![Backend](https://go-skill-icons.vercel.app/api/icons?i=express,nest,prisma,drizzle,mongoose,jwt,swagger)](https://danzokka.com)
+[![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,nest,prisma,jwt,swagger)](https://danzokka.com)
 
-#### Banco de dados que utilizo:
+#### Databases I Use:
+[![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,mariadb,postgresql,mongodb,supabase,redis)](https://danzokka.com)	
 
-[![Banco de dados](https://go-skill-icons.vercel.app/api/icons?i=mysql,mariadb,postgresql,mongodb,supabase,redis)](https://danzokka.com)	
+#### DevOps and Cloud:
 
-#### DevOps e Cloud:
+[![DevOps](https://go-skill-icons.vercel.app/api/icons?i=linux,docker,ubuntu,bash,nginx,aws,terraform,githubactions,jenkins,keycloak)](https://danzokka.com)
 
-[![DevOps](https://go-skill-icons.vercel.app/api/icons?i=linux,docker,kubernetes,ubuntu,fedora,bash,nginx,apache,aws,digitalocean,terraform,githubactions,vercel)](https://danzokka.com)
+#### Operating Systems:
 
-#### Sistemas Operacionais:
-
-[![Sistemas Operacionais](https://go-skill-icons.vercel.app/api/icons?i=linux,windows,wsl,ubuntu,fedora)](https://danzokka.com)
-
-#### Automação e IoT:
-
-[![Automação e IoT](https://go-skill-icons.vercel.app/api/icons?i=arduino,raspberrypi,platformio)](https://danzokka.com)
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em> Me mande um oi</em>
+[![Operating Systems](https://go-skill-icons.vercel.app/api/icons?i=linux,windows,wsl,ubuntu,arch)](https://danzokka.com)
 
 ---
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.6%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 50.9 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 24 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3521 commits        █████████░░░░░░░░░░░░░░░░   37.83 % 
-🌆 Daytime                4850 commits        █████████████░░░░░░░░░░░░   52.11 % 
-🌃 Evening                714 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-🌙 Night                  223 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1976 commits        █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
-Tuesday                  1910 commits        █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
-Wednesday                1650 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Thursday                 1278 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Friday                   1780 commits        █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Saturday                 334 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Sunday                   380 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               23 repos            ████████████░░░░░░░░░░░░░   46.00 % 
-Shell                    7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-MATLAB                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-```
-
-
-
-
- Last Updated on 01/01/2026 01:51:24 UTC
-<!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danzokka&layout=donut&theme=github_dark_dimmed)  ![Dazokka's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Danzokka&theme=github_dark_dimmed&hide_border=true)
 
 [![Danzokka github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Danzokka&theme=react)](https://github.com/Danzokka)
 
-### Repositórios em destaque
+---
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Danzokka&repo=Next-Portfolio&show_owner=true&theme=github_dark_dimmed)](https://github.com/Danzokka/Next-Portfolio) [![Marcador de Consultas](https://github-readme-stats.vercel.app/api/pin/?username=Danzokka&repo=marcador-de-consultas&show_owner=true&theme=github_dark_dimmed)](https://github.com/Danzokka/marcador-de-consultas)
+### Projects
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Danzokka&repo=portfolio&show_owner=true&theme=github_dark_dimmed)](https://github.com/Danzokka/portfolio) [![TCC-Estufa](https://github-readme-stats.vercel.app/api/pin/?username=Danzokka&repo=TCC-Estufa&show_owner=true&theme=github_dark_dimmed)](https://github.com/Danzokka/TCC-Estufa)
+[![Telegram-Bot](https://github-readme-stats.vercel.app/api/pin/?username=Danzokka&repo=Telegram-Bot&show_owner=true&theme=github_dark_dimmed)](https://github.com/Danzokka/Telegram-Bot)
+[![Distributed-Systems](https://github-readme-stats.vercel.app/api/pin/?username=Danzokka&repo=Sistemas_Distribuidos_IESB&show_owner=true&theme=github_dark_dimmed)](https://github.com/Danzokka/Sistemas_Distribuidos_IESB)
+[![Marcador-De-Consultas](https://github-readme-stats.vercel.app/api/pin/?username=Danzokka&repo=Marcador-De-Consultas&show_owner=true&theme=github_dark_dimmed)](https://github.com/Danzokka/Marcador-De-Consultas)
+[![Install_Scripts](https://github-readme-stats.vercel.app/api/pin/?username=Danzokka&repo=install_scripts&show_owner=true&theme=github_dark_dimmed)](https://github.com/Danzokka/install_scripts)
+
+
 
