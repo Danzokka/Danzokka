@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">dan_the_dev app icon</title>
+  <rect width="512" height="512" rx="112" fill="#00FF88"></rect>
+  <g transform="scale(2)">
+    <path d="M172 256L0 256L0 215L12 201L12 198L0 186L0 107C7 91 7 65 15 47C23 27 32 18 46 20C60 22 76 43 92 59C111 58 134 62 155 70C172 59 193 45 209 50C226 56 222 79 217 112C214 124 211 130 215 139C224 166 216 190 201 210C190 221 177 227 166 230C169 240 171 249 172 256Z" fill="#090A0E"></path>
+    <ellipse cx="67.2" cy="142.2" rx="16.5" ry="17.5" fill="#00FF88"></ellipse>
+    <ellipse cx="174.7" cy="154.1" rx="15" ry="17" fill="#00FF88"></ellipse>
+    <rect x="111.5" y="171" width="18.5" height="5" rx="2.5" transform="rotate(8 120.75 173.5)" fill="#00FF88"></rect>
+  </g>
+</svg>
